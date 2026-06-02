@@ -8,7 +8,12 @@
 
 
 # Tabulation with readings
+<img width="1600" height="1544" alt="WhatsApp Image 2026-06-02 at 7 24 39 PM" src="https://github.com/user-attachments/assets/18c6b5fc-3e62-419d-a1df-598bd650a2fb" />
 
 ## Semilog plotted Graph
+<img width="1587" height="1102" alt="WhatsApp Image 2026-06-02 at 7 24 40 PM" src="https://github.com/user-attachments/assets/dd685e87-b122-4fa9-850d-50054b7a1dbe" />
 
 <img width="697" height="292" alt="image" src="https://github.com/user-attachments/assets/931385be-3c78-4682-a10c-1924b3faa1d4" />
+1.68dB
+2.99.3kHz
+3.217.48kHz
