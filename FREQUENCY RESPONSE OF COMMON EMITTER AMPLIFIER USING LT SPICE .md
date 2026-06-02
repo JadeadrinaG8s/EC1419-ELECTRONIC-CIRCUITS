@@ -26,7 +26,10 @@
 <img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
 
 ## Graph
-<img width="906" height="390" alt="image" src="https://github.com/user-attachments/assets/4cf86098-2df8-4a64-83bb-aa68fbab468a" />
+INPUT
+<img width="1911" height="494" alt="image" src="https://github.com/user-attachments/assets/645ab66d-fd97-48d5-8733-eb34c884abfd" />
+OUTPUT
+<img width="1280" height="329" alt="image" src="https://github.com/user-attachments/assets/50eddf16-5777-40f0-bc0a-e0dccf2ba34c" />
 
 
 ## **Result**
