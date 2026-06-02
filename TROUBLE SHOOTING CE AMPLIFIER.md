@@ -7,7 +7,12 @@
 
 
 ## Tabulations 
+<img width="1394" height="1600" alt="WhatsApp Image 2026-06-02 at 7 17 01 PM (1)" src="https://github.com/user-attachments/assets/75bb786f-d284-4c70-848c-4ef526a78fc5" />
 
 ## Semilog Graph
+<img width="1600" height="1115" alt="WhatsApp Image 2026-06-02 at 7 17 01 PM" src="https://github.com/user-attachments/assets/a5da1a56-8c83-4a45-8e4b-9a2e3df9753d" />
 
 <img width="845" height="246" alt="image" src="https://github.com/user-attachments/assets/f02add25-358b-4b00-902c-8ad7d06fe7ec" />
+1.68dB
+2.100.2Hz
+3.219.43Hz
